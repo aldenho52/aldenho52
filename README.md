@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... haldeno.52@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was born and raised in Hawaii
--->
