@@ -11,5 +11,4 @@ Here is What I'm Working On:
 - 🤔 I’m looking for help with ... Job Search
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... haldeno.52@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was born and raised in Hawaii
