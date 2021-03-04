@@ -6,9 +6,7 @@ I'm a software engineer who is passionate about technology and what it can do fo
 Here is What I'm Working On:
 
 - 🔭 I’m currently working on ... finding my first developer job!
-- 🌱 I’m currently learning ... Data Structures and Algorithms
 - 👯 I’m looking to collaborate on ... Web Applications
-- 🤔 I’m looking for help with ... Job Search
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... haldeno.52@gmail.com
 - ⚡ Fun fact: ... I was born and raised in Hawaii
