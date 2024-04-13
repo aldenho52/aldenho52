@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about technology and what it can do fo
 
 Here is What I'm Working On:
 
-- 🔭 I’m currently working as ... a FrontEnd Engineer at AdviNowMedical!
+- 🔭 I’m currently working as ... a full-stack engineer at Reelay!
 - 👯 I’m looking to collaborate on ... Web Applications
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... haldeno.52@gmail.com
